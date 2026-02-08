@@ -112,7 +112,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "638e431c6a7d3eaf65f57f028148807b"
+        "md5": "cf38205ff2207e7d13db23fb565be105"
     },
     {
         "path": "polymerger-privacy-policy",
@@ -122,12 +122,22 @@
     {
         "path": "/polymerger-privacy-policy/index.html",
         "type": "file",
-        "md5": "77d2ede620564bd78fc5218d5ccf6b1a"
+        "md5": "7bee174e38a63c7e3bacea31467e19eb"
     },
     {
         "path": "robots.txt",
         "type": "file",
         "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+    },
+    {
+        "path": "sort-lab-privacy-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sort-lab-privacy-policy/index.html",
+        "type": "file",
+        "md5": "134a84422be2cf4eb1606ed5aad9a5aa"
     },
     {
         "path": "tags",
